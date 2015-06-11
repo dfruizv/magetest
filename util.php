@@ -1,2 +1,2 @@
 <?php
-echo "This is a utility diferent";
+echo "This is a utility file";
