@@ -1,2 +1,2 @@
 <?php
-Test file for pull test
+echo "Test file for pull test";
