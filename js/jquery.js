@@ -5,4 +5,12 @@
 $.ajax(function(){
 	console.log("This is a test");
 });
-
+$.ajax(function(){
+	console.log("This is a test");
+});
+$.ajax(function(){
+	console.log("This is a test");
+});
+$.ajax(function(){
+	console.log("This is a test");
+});
