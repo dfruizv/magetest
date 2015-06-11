@@ -9,5 +9,9 @@ echo "This is a test";
 </head>
 <body>
 	<div class="container">HELLO</div>
+	<div class="container">HELLO</div>
+	<div class="container">HELLO</div>
+	<div class="container">HELLO</div>
+	<div class="container">HELLO</div>
 </body>
 </html>
